@@ -1,4 +1,9 @@
 {
+    "autoload": {
+        "psr-4": {
+            "NewsClassifier\\": "src/"
+        }
+    },
     "require": {
         "rubix/ml": "^2.5"
     }
